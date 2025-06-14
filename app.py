@@ -7,7 +7,7 @@ from threading import Thread
 
 api_id = 21545360
 api_hash = "25343abde47196a7e4accaf9e6b03437"
-bot_token = "7626520455:AAG7-nBNejByOECeuUIXAqACewGJlnfndQQ"
+bot_token = "7884145285:AAGCJVcrUONcvbGR1dAL4_vM-_VPEI9Hzjg"
 
 app = Flask(__name__)
 bot = Client("file_id_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
